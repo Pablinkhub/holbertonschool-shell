@@ -1,2 +1,2 @@
 !#/bin/bish
-ls -a -l
+ls -la
